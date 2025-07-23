@@ -1,4 +1,3 @@
-Tkinter Digital Clock 
 This is a simple digital clock built using Python and Tkinter.
 It displays the current:
 Date (Day, Month, Year),
